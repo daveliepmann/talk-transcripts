@@ -369,7 +369,7 @@ Credit
       - Ely and the rest of the Big Data Orchestration team
 ```
 
-M brilliant engineers have contributed to Dagobah over the years in one way or
+Many brilliant engineers have contributed to Dagobah over the years in one way or
 another. Matt, who I mentioned, and Dave, the progenitors of this project. Our
 former colleagues, Pierre, Yun, and Omid, and our current wonderful team,
 Gabriel, Megan, and Malcolm, and of course, our boss and the whole big data
