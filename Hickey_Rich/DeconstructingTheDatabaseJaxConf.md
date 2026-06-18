@@ -53,7 +53,7 @@ So we want to be more flexible, we want to be more agile in our development, and
 
 And of course, related to the talk earlier, another thing we want to try to get right if we revisit database architecture is information and time. In particular, we want a database that we can use to represent information, that we can use to obtain real memory and real record keeping like we used to have before we had computers. There are lots of good reasons for this. It helps support decision-making, as I said in my talk before, and auditing. There are plenty of domains in which it's a requirement, and people are doing this manually on top of systems that don't really understand that that's what you're trying to do.
 
-How many people have ever added a timestamp field themselves to tables and managed it all themselves? Right. How many people have written the query that gets you "now" out of that table? Yeah. How many people have tuned that? Yeah. That's a nightmare. Anybody like that query, tuning that query? It' brutal. The contention is terrible, especially if it's also an online system.
+How many people have ever added a timestamp field themselves to tables and managed it all themselves? Right. How many people have written the query that gets you "now" out of that table? Yeah. How many people have tuned that? Yeah. That's a nightmare. Anybody like that query, tuning that query? It's brutal. The contention is terrible, especially if it's also an online system.
 
 [Time 0:09:00]
 
